@@ -1,0 +1,12 @@
+{
+    "type": "mashup",
+    "name": "ShowcaseMashup",
+    "allowPosition": true,
+    "cubes": [],
+    "lists": [],
+    "appMode": "ONE",
+    "appdata": {
+        "qDocName": "Showcase.qvf",
+        "qDocId": "Showcase.qvf"
+    }
+}

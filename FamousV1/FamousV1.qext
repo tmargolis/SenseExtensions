@@ -1,0 +1,7 @@
+{
+	"name": "FamousV1",
+	"description": "${name}",
+	"type": "visualization",
+	"version": 1,
+	"author": "Todd Margolis"
+}
